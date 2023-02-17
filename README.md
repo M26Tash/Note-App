@@ -1,7 +1,7 @@
 # note_app
 
 # 💫 About Me:
-I am novice flutter developer with great prospects and interest in progamming and also I am speak 3 languages sort of Turkish , Russian and Englsih
+I am novice flutter developer with great prospects and also I am speak 3 languages sort of Turkish , Russian and Englsih
 
 
 ## 🌐 Socials:
